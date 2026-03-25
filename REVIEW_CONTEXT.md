@@ -4,7 +4,7 @@
 
 - source repo: `https://github.com/haizhouyuan/finagent`
 - source commit: `37d869cd352cc2a21e6a948e8071f91067096c50`
-- review branch: `review-20260325-091157`
+- review branch: `review-20260325-091531`
 
 ## Review Goal
 
@@ -12,8 +12,9 @@ Review the latest `finagent` architecture against the local external reference r
 with emphasis on:
 
 1. OpenBB as data-bus / provider-contract reference
-2. qlib as workflow / recorder / replay / leakage-discipline reference
-3. TradingAgents as committee-review / debate-loop reference
+2. qlib, LEAN, and FinRL as workflow / replay / time-discipline references
+3. TradingAgents, TradingAgents-CN, and FinRobot as committee / orchestration references
+4. FinGPT as finance-text / RAG / financial-report-processing reference
 
 ## Required Judgment
 
@@ -21,6 +22,7 @@ with emphasis on:
 - What should `finagent` explicitly avoid?
 - Where should changes land incrementally in the existing architecture?
 - What should be deferred because it would be dog-tail accretion rather than leverage?
+- Which external repos are useful mainly as "mechanism references" rather than importable subsystems?
 
 ## Current Finagent Focus Areas
 
@@ -37,4 +39,4 @@ with emphasis on:
 
 ## Review Instructions
 
-Compare finagent against OpenBB / qlib / TradingAgents for architecture leverage. Prioritize systemic borrow-vs-avoid decisions over cosmetic suggestions.
+Review finagent against OpenBB, qlib, FinRobot, FinGPT, FinRL, Lean, TradingAgents, and TradingAgents-CN. Prioritize systemic borrow-vs-avoid decisions, minimal landing zones, and explicit non-goals.

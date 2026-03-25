@@ -6,7 +6,7 @@ payload intentionally focused:
 
 - current finagent source / scripts / tests
 - key walkthrough / blueprint / research docs
-- a curated external-reference skeleton for OpenBB / qlib / TradingAgents
+- a curated external-reference skeleton for the main external research repos
 
 The result can be used for local Gemini/ChatGPT code review imports, or pushed
 to a dedicated public review repo branch.
@@ -80,6 +80,42 @@ REFERENCE_FILES = [
     "external_research_repos/TradingAgents/tradingagents/agents/utils/agent_states.py",
     "external_research_repos/TradingAgents/tradingagents/agents/managers/research_manager.py",
     "external_research_repos/TradingAgents/tradingagents/agents/managers/portfolio_manager.py",
+    "external_research_repos/FinRobot/README.md",
+    "external_research_repos/FinRobot/experiments/investment_group.py",
+    "external_research_repos/FinRobot/finrobot/agents/agent_library.py",
+    "external_research_repos/FinRobot/finrobot/agents/workflow.py",
+    "external_research_repos/FinRobot/finrobot/data_source/finance_data.py",
+    "external_research_repos/FinRobot/finrobot/functional/rag.py",
+    "external_research_repos/FinRobot/finrobot/toolkits.py",
+    "external_research_repos/FinGPT/README.md",
+    "external_research_repos/FinGPT/Use_Cases.md",
+    "external_research_repos/FinGPT/fingpt/FinGPT_FinancialReportAnalysis/README.md",
+    "external_research_repos/FinGPT/fingpt/FinGPT_Forecaster/README.md",
+    "external_research_repos/FinGPT/fingpt/FinGPT_Forecaster/data_pipeline.py",
+    "external_research_repos/FinGPT/fingpt/FinGPT_Forecaster/prompt.py",
+    "external_research_repos/FinGPT/fingpt/FinGPT_MultiAgentsRAG/README.md",
+    "external_research_repos/FinGPT/fingpt/FinGPT_RAG/README.md",
+    "external_research_repos/FinGPT/fingpt/FinGPT_RAG/multisource_retrieval/README.md",
+    "external_research_repos/FinGPT/finogrid/docs/architecture.md",
+    "external_research_repos/FinGPT/finogrid/corridors/base.py",
+    "external_research_repos/FinRL/README.md",
+    "external_research_repos/FinRL/examples/FinRL_StockTrading_2026_3_Backtest.py",
+    "external_research_repos/FinRL/finrl/config.py",
+    "external_research_repos/FinRL/finrl/meta/data_processor.py",
+    "external_research_repos/FinRL/finrl/train.py",
+    "external_research_repos/FinRL/finrl/trade.py",
+    "external_research_repos/Lean/readme.md",
+    "external_research_repos/Lean/Documentation/readme.md",
+    "external_research_repos/Lean/Engine/AlgorithmManager.cs",
+    "external_research_repos/Lean/Engine/DataFeeds/DataManager.cs",
+    "external_research_repos/Lean/Common/Algorithm/Framework/Alphas/Insight.cs",
+    "external_research_repos/Lean/Common/Algorithm/Framework/Portfolio/PortfolioTarget.cs",
+    "external_research_repos/TradingAgents-CN/README.md",
+    "external_research_repos/TradingAgents-CN/app/main.py",
+    "external_research_repos/TradingAgents-CN/app/core/unified_config.py",
+    "external_research_repos/TradingAgents-CN/app/models/analysis.py",
+    "external_research_repos/TradingAgents-CN/app/routers/analysis.py",
+    "external_research_repos/TradingAgents-CN/app/routers/multi_source_sync.py",
 ]
 
 EXCLUDE_DIRS = {
@@ -211,8 +247,9 @@ Review the latest `finagent` architecture against the local external reference r
 with emphasis on:
 
 1. OpenBB as data-bus / provider-contract reference
-2. qlib as workflow / recorder / replay / leakage-discipline reference
-3. TradingAgents as committee-review / debate-loop reference
+2. qlib, LEAN, and FinRL as workflow / replay / time-discipline references
+3. TradingAgents, TradingAgents-CN, and FinRobot as committee / orchestration references
+4. FinGPT as finance-text / RAG / financial-report-processing reference
 
 ## Required Judgment
 
@@ -220,6 +257,7 @@ with emphasis on:
 - What should `finagent` explicitly avoid?
 - Where should changes land incrementally in the existing architecture?
 - What should be deferred because it would be dog-tail accretion rather than leverage?
+- Which external repos are useful mainly as "mechanism references" rather than importable subsystems?
 
 ## Current Finagent Focus Areas
 

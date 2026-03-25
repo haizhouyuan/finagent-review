@@ -24,7 +24,11 @@ def test_curated_paths_include_key_finagent_and_reference_files():
     )
     assert "external_research_repos/qlib/qlib/workflow/recorder.py" in rel_paths
     assert "external_research_repos/TradingAgents/tradingagents/graph/trading_graph.py" in rel_paths
-    assert not any(path.startswith("external_research_repos/FinGPT/") for path in rel_paths)
+    assert "external_research_repos/FinRobot/finrobot/agents/workflow.py" in rel_paths
+    assert "external_research_repos/FinGPT/fingpt/FinGPT_RAG/README.md" in rel_paths
+    assert "external_research_repos/FinRL/finrl/meta/data_processor.py" in rel_paths
+    assert "external_research_repos/Lean/Engine/AlgorithmManager.cs" in rel_paths
+    assert "external_research_repos/TradingAgents-CN/app/routers/analysis.py" in rel_paths
 
 
 def test_sync_source_files_and_context_generation(tmp_path):
@@ -40,6 +44,14 @@ def test_sync_source_files_and_context_generation(tmp_path):
         / "tradingagents"
         / "graph"
         / "trading_graph.py"
+    ).is_file()
+    assert (
+        tmp_path
+        / "external_research_repos"
+        / "FinGPT"
+        / "fingpt"
+        / "FinGPT_RAG"
+        / "README.md"
     ).is_file()
 
     MODULE.generate_review_context(
@@ -57,3 +69,5 @@ def test_sync_source_files_and_context_generation(tmp_path):
     assert "OpenBB" in context
     assert "qlib" in context
     assert "TradingAgents" in context
+    assert "FinGPT" in context
+    assert "LEAN" in context
