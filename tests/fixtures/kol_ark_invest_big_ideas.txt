@@ -1,0 +1,42 @@
+ARK Invest — Big Ideas 2026 & Monthly Trading Activity (March 2026)
+
+一、ARK 2026 Big Ideas 核心主题
+
+1. AI Agent Economy: ARK预测到2030年AI Agent经济体量将达到$16万亿。Autonomous AI agents替代人类知识工作的速度超预期，企业SaaS向Agent-as-a-Service转型。
+
+2. Robotaxi: Waymo和特斯拉FSD v13在旧金山、洛杉矶、凤凰城实现全自动运营。ARK预测2030年Robotaxi市场规模$10万亿，特斯拉占30%份额。
+
+3. Bitcoin: ARK维持2030年BTC $150万的牛市预测。机构配置从2%提升至5-10%，ETF持续吸金。
+
+4. Multi-Omics & Precision Medicine: CRISPR疗法+AI药物发现加速，Vertex/Intellia管线进展推动基因编辑板块。
+
+5. Energy Storage: 电池成本曲线持续下行，预测2026年锂电池pack成本降至$80/kWh，储能经济性拐点已过。
+
+二、ARK 2026年3月交易活动
+
+买入:
+- Tesla (TSLA): 加仓 $45M，看好FSD v13 + Optimus机器人 + 储能业务
+- Palantir (PLTR): 加仓 $28M，AI Agent平台AIP企业渗透加速
+- Coinbase (COIN): 加仓 $15M，加密监管明确化+机构入场
+- Roku (ROKU): 加仓 $12M，CTV广告复苏
+- Roblox (RBLX): 加仓 $10M，UGC平台货币化提升
+- Tempus AI (TEM): 新建仓 $8M，精准医疗AI平台
+
+卖出:
+- NVIDIA (NVDA): 减仓 $20M，获利了结高估值
+- Illumina (ILMN): 减仓 $15M，管理层更换不确定性
+- Zoom (ZM): 清仓，通信AI竞争加剧
+
+三、ARK旗舰基金表现 (YTD 2026)
+- ARKK (Innovation): +18.2%
+- ARKW (Next Gen Internet): +22.5%
+- ARKG (Genomic Revolution): +8.1%
+- ARKQ (Autonomous Tech): +15.6%
+- ARKF (Fintech Innovation): +12.3%
+
+四、Cathie Wood关键观点
+"We are in the early innings of the biggest technological convergence in history. AI, robotics, energy storage, blockchain, and multi-omics are converging simultaneously. Companies positioned at the intersection of these platforms will generate exponential returns."
+
+"NVIDIA is a great company but at 40x forward earnings, the risk-reward is less compelling than companies like Tesla and Palantir which are deploying AI into real-world applications."
+
+Data Date: 2026-03-12

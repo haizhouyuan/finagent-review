@@ -1,0 +1,9 @@
+Bear Case Analysis: Advanced Packaging Overcapacity Risk
+
+1. TSMC CoWoS capacity expansion may overshoot demand by H2 2026
+2. Samsung and Intel rapidly expanding EMIB/Foveros alternatives
+3. AI CapEx spending showing signs of moderation in recent earnings calls
+4. HBM4 transition delays could reduce near-term packaging demand
+5. Chinese domestic alternatives (JCET, Tongfu) adding capacity at lower costs
+6. Customer dual-sourcing strategy reduces TSMC pricing power
+7. CoWoS yield improvements could reduce wafer requirements per chip

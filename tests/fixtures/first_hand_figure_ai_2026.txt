@@ -1,0 +1,44 @@
+Figure AI — Series C Funding & Figure 02 Production Update (First-Hand Press Release)
+
+FOR IMMEDIATE RELEASE — January 15, 2026
+
+Figure AI Raises $1.5 Billion Series C at $12 Billion Valuation
+
+SAN JOSE, CA — Figure AI, Inc., the AI robotics company building commercially viable general-purpose humanoid robots, today announced the close of its $1.5 billion Series C funding round.
+
+Key Points:
+
+1. FUNDING
+- Series C: $1.5B at $12B pre-money valuation
+- Lead investors: Microsoft, NVIDIA, OpenAI Startup Fund, Intel Capital
+- Total funding to date: $2.3B
+- Cash runway: 3+ years at current burn rate
+
+2. FIGURE 02 PRODUCTION STATUS
+- Cumulative units produced: 350 (as of Dec 2025)
+- BMW Spartanburg deployment: 85 units operational in paint shop + logistics
+- Monthly production rate: 50 units/month (target 200/month by Q4 2026)
+- Unit cost: ~$58,000 (target <$40,000 at scale by 2027)
+- Mean time between failures (MTBF): 72 hours (vs 12 hours at launch)
+
+3. TECHNICAL MILESTONES
+- Dexterity: 21 DOF hands, 95% grasp success rate on standard objects
+- Autonomy: 85% task completion without human intervention (factory setting)
+- Battery: 4-hour operational runtime (vs 2.5 hours at launch)
+- Vision-Language-Action model: Powered by OpenAI, 1.2B parameters on-device
+
+4. COMMERCIAL PIPELINE
+- Signed LOIs: BMW (expanding to 500 units by Q1 2027), Amazon (pilot 200 units), Mercedes-Benz (logistics pilot)
+- Revenue from robot leasing: $12M annualized (Q4 2025 run rate)
+- Target 2026 revenue: $80-120M
+
+CEO Brett Adcock:
+"We are past the science experiment phase. Figure 02 is working real shifts at BMW, performing tasks that were previously impossible to automate. Our Series C capital will fund the transition from pilot to mass deployment."
+
+5. COMPETITIVE LANDSCAPE
+- Tesla Optimus: ~200 units deployed internally at Fremont/Austin
+- 1X Technologies (NEO): 50 units in pilot
+- Apptronik Apollo: Early prototype stage
+- Agility Digit: 100+ units at Amazon
+
+Data Date: 2026-01-15 (Press Release)

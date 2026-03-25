@@ -1,0 +1,11 @@
+TSMC Q1 2025 Earnings Call Transcript (Test Data)
+
+Revenue: $25.8B (+35% YoY), exceeding analyst consensus of $24.2B
+CoWoS capacity: Currently doubling production capacity in 2025 vs 2024
+Advanced packaging CapEx: $12B planned for 2026, up from $8B in 2025
+HBM demand: Customer demand for HBM-related packaging exceeding supply through 2026
+DDR5 server penetration: Crossing 50% milestone in enterprise servers
+Pricing: CoWoS wafer pricing stable with slight upward pressure due to demand
+Backlog: Customer order backlog extends visibility well into 2027
+N3 process: 3nm ramp on track, contributing 20% of wafer revenue
+AI revenue: AI-related revenue now 15% of total, projected 25% by end of 2025

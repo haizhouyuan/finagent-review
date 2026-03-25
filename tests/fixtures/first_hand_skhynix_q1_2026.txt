@@ -1,0 +1,41 @@
+SK Hynix Q1 2026 Earnings Call Transcript (First-Hand Data)
+
+CEO Kwak Noh-Jung Opening Remarks:
+"Q1 was another record quarter driven by insatiable AI demand for HBM3E and early HBM4 shipments."
+
+Key Financial Results:
+- Revenue: KRW 21.8T ($16.2B), +42% YoY, +8% QoQ
+- Operating Profit: KRW 8.9T, OP margin 40.8%
+- DRAM Revenue: KRW 16.2T (+38% YoY)
+  - HBM Revenue: KRW 6.8T (42% of DRAM, +120% YoY)
+  - DDR5 Revenue: KRW 5.1T (31% of DRAM)
+- NAND Revenue: KRW 5.6T (+28% YoY)
+
+HBM Business Updates:
+- HBM3E 12-Hi: Full volume production, yield >85%
+- HBM4: Engineering samples shipped to NVIDIA and AMD in Q4 2025
+- HBM4 mass production: Scheduled Q3 2026 using TSMC CoWoS-L
+- HBM revenue mix: 42% of DRAM → target 55% by Q4 2026
+- "We have secured all HBM4 supply agreements for 2026-2027 volumes"
+
+Q&A Highlights:
+Q: What is TSMC's role in HBM4 vs previous generations?
+A: "HBM4 requires advanced packaging that only TSMC can provide at scale via CoWoS-L. This is a fundamental shift — the base logic die is fabricated at TSMC's 5nm node, integrating memory controller logic. We see this as deepening our partnership with TSMC rather than creating dependency."
+
+Q: DDR5 pricing outlook?
+A: "DDR5 pricing is stable to improving. The transition from DDR4 continues — DDR5 was 62% of our DRAM bits in Q1, heading to 75% by year end. Server DDR5 demand from AI training clusters remains very strong."
+
+Q: HBM capacity constraints?
+A: "We are investing KRW 12T in 2026 CapEx, with 60% allocated to HBM and advanced DRAM. Our M15X fab expansion is on track for H2 2026 completion, adding 30% HBM production capacity."
+
+CapEx and Investment:
+- 2026E CapEx: KRW 12T ($8.9B), +25% YoY
+- 60% allocated to HBM + advanced DRAM
+- M15X fab: H2 2026 online (+30% HBM capacity)
+- R&D: KRW 4.2T (19% of revenue)
+
+Guidance:
+- Q2 2026: Revenue KRW 23-24T, OP margin 42-44%
+- Full year: Record revenue expected, HBM revenue >$20B
+
+Data Date: 2026-01-25 (Q1 FY2026 Earnings)

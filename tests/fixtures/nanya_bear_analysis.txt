@@ -1,0 +1,17 @@
+Nanya Technology (2408.TW) Competitive Analysis — Bearish Assessment
+
+1. Technology Gap: Nanya remains stuck at DDR4/early DDR5 commodity DRAM with no HBM capability. TSMC and Samsung have moved to advanced packaging (CoWoS, HBM3E) while Nanya lacks the IP and fab infrastructure for high-bandwidth memory.
+
+2. Market Share Erosion: Global DRAM market share <3% and declining. Samsung (42%), SK Hynix (28%), Micron (25%) dominate. Nanya's commodity DRAM faces intense price pressure from Chinese entrants (CXMT/ChangXin) who are scaling DDR4 capacity aggressively.
+
+3. Margin Compression: Gross margins at 15-20% vs industry leaders at 40-60%. As CXMT scales production, commodity DDR4 ASPs face further downside. Nanya's cost structure (older nodes, lower yields) cannot compete with Samsung/Micron's mature 1α/1β processes.
+
+4. CapEx Limitations: Annual CapEx of ~$500M is insufficient for technology transitions. HBM development requires $5-10B+ investment cycles that only Samsung/SK Hynix/Micron can sustain.
+
+5. AI Demand Miss: Server DRAM demand is migrating to HBM, not commodity DDR4/DDR5. Nanya captures zero value from the AI CapEx supercycle driving semiconductor valuations.
+
+6. Valuation Disconnect: Trading at 2.5x book value despite deteriorating competitive position. Comparable commodity DRAM peers trade at 0.8-1.2x book. Downside to fair value: 50-65%.
+
+7. Risk Factor: Taiwan geopolitical risk premium applies without the offsetting "irreplaceable" status that TSMC commands. Nanya is substitutable.
+
+Data Date: 2026 Q1

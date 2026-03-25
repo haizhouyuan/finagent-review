@@ -1,0 +1,25 @@
+EE Times — Edge AI Inference: The Next Battleground for Chip Vendors
+
+The shift from cloud-centric to edge-centric AI is accelerating faster than most analysts predicted. By 2026, over 40% of AI inference workloads are expected to run on-device rather than in the cloud.
+
+Key Developments:
+
+1. Qualcomm Snapdragon X Elite: Leading the Windows on Arm AI PC wave with 45 TOPS NPU. Microsoft Surface and Lenovo ThinkPad X1 Carbon AI Edition are the first mass-market AI PCs. Qualcomm claims 70% better power efficiency vs Intel Core Ultra 200V for on-device LLM inference.
+
+2. Apple M4 Ultra with Neural Engine: 38 TOPS dedicated NPU enables on-device multimodal AI. Apple Intelligence running 3B parameter models locally is setting the consumer expectation for private, fast AI.
+
+3. MediaTek Dimensity 9400: Integrated APU (AI Processing Unit) with 46 TOPS, powering on-device generative AI in Android flagships. Samsung Galaxy S26 and Xiaomi 16 Pro are showcase devices.
+
+4. Intel Core Ultra 300 Series ("Panther Lake"): Intel's response combines Intel 18A compute tiles with TSMC N3 GPU/NPU tiles. 48 TOPS NPU targets the AI PC market but faces yield concerns on Intel 18A.
+
+5. NVIDIA Jetson Thor: Targeting robotics and autonomous vehicles with 800 TOPS in a 100W envelope. The module costs $1,500 vs $30,000+ for datacenter A100 inference, making edge deployment economically viable.
+
+Market Sizing:
+- Edge AI chip market: $28B in 2025 → projected $65B by 2028 (CAGR 32%)
+- AI PC penetration: 15% in 2025 → 60% by 2027
+- On-device LLM inference capability becomes table-stakes for flagship devices
+
+Investment Implications:
+Qualcomm and MediaTek are best positioned for the edge AI inference market given their mobile-first architectures. Intel faces execution risk with 18A. NVIDIA's edge play (Jetson) is underappreciated.
+
+Data Date: March 2026

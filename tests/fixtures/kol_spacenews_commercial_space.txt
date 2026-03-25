@@ -1,0 +1,31 @@
+SpaceNews — Commercial Space Industry Update: The Satellite Internet Race Heats Up
+
+1. SpaceX Starlink: Now operating 7,200+ satellites in orbit, serving 5 million subscribers across 100+ countries. Revenue annualized at $12B for 2026. Direct-to-cell service (Starlink v4 satellites with T-Mobile partnership) launching commercially in Q2 2026.
+
+2. China Satellite Network (中国星网/China SatNet): Filed for 12,992 satellite constellation. First batch of 18 satellites launched in December 2025. Planning 1,000+ satellites by end of 2027. Using Long March 8A and commercial rockets for deployment.
+
+3. 千帆星座 (GeeSpace/Qianfan): Shanghai-backed LEO constellation targeting 15,000 satellites for global broadband. 54 satellites operational, aggressive launch cadence planned for 2026. Using 垣信卫星 manufacturing facility capable of producing 300 satellites/year.
+
+4. Reusable Rockets:
+   - SpaceX Falcon 9: 300+ successful landings, 20+ reuses per booster, driving launch cost to $2,000/kg
+   - 蓝箭航天 (LandSpace) ZQ-3: China's first methane-LOX reusable rocket, first orbital flight Q3 2026
+   - 星河动力 (Galactic Energy) CERES-1S: Solid-fuel small launcher with reusable first stage under development
+   - Rocket Lab Neutron: Medium-lift reusable rocket targeting 2026 debut
+
+5. Satellite Manufacturing:
+   - 银河航天 (GalaxySpace): Flat-panel communication satellite mass production, 6G tech demonstration payload
+   - 微纳星空 (Minano Space): Small satellite platform cost reduced to <$1M per unit
+   - Global satellite manufacturing capacity projected at 3,000 units/year by 2027
+
+6. Key Supply Chain:
+   - 星载芯片: Radiation-hardened chips (Xilinx, Microchip, 国微电子 Guowei)
+   - 相控阵天线: Flat-panel antennas for LEO constellations (成都天锐星通/中国电科)
+   - 太阳电池板: GaAs triple-junction cells (中国航天科技/Spectrolab)
+   - 激光星间链路: Inter-satellite laser links (长光卫星/Mynaric)
+
+7. Market Sizing:
+   - Global satellite internet TAM: $35B by 2030 (up from $8B in 2025)
+   - Chinese commercial space market: $25B in 2025, growing 25% CAGR
+   - Launch services: $15B globally, SpaceX captures ~65% share
+
+Data Date: March 2026

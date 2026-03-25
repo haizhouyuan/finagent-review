@@ -1,0 +1,32 @@
+Qualcomm Inc (QCOM) — Fiscal Q1 2026 Earnings Call Transcript (First-Hand)
+
+Financial Results (Quarter ended Dec 2025):
+- Revenue: $12.8B (+18% YoY, +5% QoQ)
+- QCT Revenue: $10.9B (+20% YoY)
+  - Handsets: $7.8B (+12%)
+  - Automotive: $1.2B (+58%)
+  - IoT: $1.9B (+26%)
+- QTL Revenue: $1.9B (+8%)
+- Non-GAAP EPS: $3.42 (+22%)
+
+AI / Edge AI Highlights:
+- Snapdragon X Elite shipped 15M units since launch
+- AI PC TAM penetration: 22% of new Windows PCs (vs 8% prior year)
+- Snapdragon 8 Elite (3nm): 45+ TOPS, adopted by Samsung Galaxy S26
+- On-device AI inference: 70B parameter models running locally on Snapdragon X
+- Qualcomm AI Hub: 250+ optimized models in the ecosystem
+
+Automotive:
+- Design win pipeline: $45B lifetime value (+30% YoY)
+- Snapdragon Ride Flex: L2+ to L4 unified SoC
+- New wins: BMW, Mercedes (cockpit + ADAS), BYD (全栈智驾)
+- Snapdragon Digital Chassis revenue from GM, Hyundai ramping
+
+CEO Cristiano Amon:
+"Edge AI is the next major computing platform shift. We are positioned at the intersection of mobile, automotive, and PC — all transitioning to on-device AI inference. The Snapdragon X platform proves that AI PCs are not a concept, they're shipping at scale."
+
+Guidance Q2 FY2026:
+- Revenue: $12.9-$13.5B
+- Non-GAAP EPS: $3.45-$3.65
+
+Data Date: 2026-01-29 (Q1 FY2026 Earnings)

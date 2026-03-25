@@ -1,0 +1,35 @@
+Moore's Law Is Dead — The Real Story Behind TSMC's 2nm (N2) Ramp
+
+TSMC's N2 process node is the most important semiconductor manufacturing milestone since the EUV transition at 7nm. Here's why it matters more than you think.
+
+Technical Overview:
+- N2 is TSMC's first GAA (Gate-All-Around) nanosheet transistor node, replacing FinFET after 5 generations
+- 10-15% speed improvement at same power vs N3E
+- 25-30% power reduction at same speed vs N3E  
+- Logic density: ~330 MTr/mm² (vs 290 for N3E)
+- Expected HVM (High Volume Manufacturing) start: H2 2025, customer products launching 2026
+
+Why N2 is a Bigger Deal Than N3:
+1. GAA architecture enables better electrostatic control, meaning the performance/power curve doesn't flatten out like FinFET was doing at N3/N3E
+2. Backside power delivery (N2P variant, 2027) will add another 10% performance improvement by moving power rails behind the transistors
+3. N2 is designed from the ground up for AI workloads — SRAM density optimized for large caches needed in AI accelerators
+
+Customer Landscape:
+- Apple: A20 Bionic (iPhone 18) will be the first high-volume N2 chip, tape-out completed Q1 2026
+- NVIDIA: Next-gen Rubin GPU (post-Blackwell) will use N2 for compute dies
+- AMD: Zen 6 (2027) will use N2 for CCD compute chiplets
+- Qualcomm: Snapdragon 9 Gen 4 targeting N2 for late 2026
+- Intel: Rumored to use TSMC N2 for disaggregated GPU tiles alongside Intel 18A CPU tiles
+
+Capacity and Pricing:
+- N2 wafer cost expected at $28,000-30,000 per wafer (vs $20,000 for N3E)
+- Initial capacity limited to 20K wafers/month (Q4 2025), scaling to 60K by end 2026
+- TSMC capex for N2 fabs: $40B+ across Fab 20 (Hsinchu) and Arizona Phase 2
+
+Competitive Implications:
+Samsung 2nm GAA (SF2) has a 6-12 month delay and lower yields. Intel 18A (1.8nm-class) is the wildcard — if yields are good, it's competitive with N2 on performance, but TSMC's ecosystem advantages (IP libraries, design services) give it a 2-3 year lead in customer adoption.
+
+Investment Take:
+TSMC's N2 ramp validates the company's technology leadership through at least 2028. The wafer price increase supports gross margin expansion. Risk: geopolitical disruption from Taiwan Strait tensions.
+
+Data Date: March 2026

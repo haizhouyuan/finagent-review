@@ -1,0 +1,10 @@
+{
+  "total_chunks": 9,
+  "total_extracted": 0,
+  "total_validated": 0,
+  "total_rejected": 0,
+  "total_ingested": 0,
+  "graph_nodes": 0,
+  "pass_rate": 0.0,
+  "rejected_details": []
+}

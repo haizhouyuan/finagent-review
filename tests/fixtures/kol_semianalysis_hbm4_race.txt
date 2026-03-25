@@ -1,0 +1,26 @@
+SemiAnalysis — The HBM4 Race: Why It Matters More Than You Think
+Author: Dylan Patel
+
+HBM4 represents a generational leap in bandwidth density. While HBM3E delivers 1.18 TB/s per stack, HBM4 is targeting 2+ TB/s with a fundamental architectural change: the logic die is now integrated with the base die, enabling custom compute-near-memory architectures.
+
+Key Technical Changes in HBM4:
+- Base die becomes a logic die (custom per customer — NVIDIA, AMD, Google each have unique designs)
+- 16-high stack standard (vs 12-high for HBM3E)
+- 2048-bit wide interface per channel
+- Advanced thermal solution required: micro-channel liquid cooling integration
+
+Supply Chain Implications:
+1. TSMC becomes the critical bottleneck — they fab the logic base die on N5/N3 process, not the memory vendor
+2. SK Hynix's "first mover" advantage erodes because the base die differentiation shifts power to the SoC designer
+3. Samsung may actually benefit from HBM4 as the architectural reset levels the playing field
+4. CoWoS-L packaging is REQUIRED for HBM4 integration — TSMC's advanced packaging capacity remains the gating factor
+
+Production Timeline:
+- SK Hynix: HBM4 samples to NVIDIA Q3 2026, volume production Q1 2027
+- Samsung: HBM4 development ahead of schedule, sampling Q4 2026
+- Micron: HBM4 delayed to H2 2027, focusing on HBM3E market share gains
+
+Investment Thesis Implications:
+The HBM4 transition reinforces the advanced packaging bottleneck while potentially reshuffling memory vendor rankings. CoWoS capacity, not DRAM fab capacity, determines who wins.
+
+Data Date: 2026-03-10

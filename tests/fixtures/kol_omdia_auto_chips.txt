@@ -1,0 +1,23 @@
+Omdia Semiconductor Outlook — Auto Chips & ADAS: The $80B Opportunity
+
+Executive Summary:
+The automotive semiconductor market reached $62B in 2025 and is projected to hit $80B by 2027, driven by electrification, ADAS penetration, and in-vehicle computing demands.
+
+Key Findings:
+
+1. ADAS Chip Market: NVIDIA leads with 65% share of L3+ autonomous driving compute. Mobileye (Intel) is losing share as legacy ADAS systems migrate to open platforms. Qualcomm Snapdragon Ride 2.0 is gaining traction with Chinese OEMs (BYD, NIO, XPeng).
+
+2. Chinese Auto Chip Ecosystem: Horizon Robotics (地平线) Journey 6 chip delivers 560 TOPS for L3+ applications and has secured design wins with Volkswagen, Li Auto, and Chery. Black Sesame Technologies (黑芝麻智能) A2000 is targeting L2+ at aggressive pricing. The Chinese auto chip market is expected to reach $15B by 2027, up from $8B in 2025.
+
+3. Domain Controller Architecture: The industry is consolidating from 30+ ECUs per vehicle to 3-5 domain controllers. This architectural shift benefits SoC vendors (NVIDIA, Qualcomm, Horizon) at the expense of traditional MCU vendors (NXP, Infineon, Renesas).
+
+4. Power Semiconductors: SiC (Silicon Carbide) adoption in EV powertrains is accelerating. STMicro, Wolfspeed, and Onsemi lead in SiC MOSFETs. Chinese competitors (Sanan Optoelectronics 三安光电, BYD Semiconductor) are scaling rapidly.
+
+5. Vehicle Connectivity: C-V2X (Cellular Vehicle-to-Everything) chips from Qualcomm and Autotalks are being mandated in new Chinese vehicle regulations starting 2027. This creates a new $3-5B chip TAM.
+
+Risk Factors:
+- EV sales growth deceleration in Europe
+- Geopolitical risk affecting China-US auto chip supply chains
+- L3+ regulatory uncertainty in major markets
+
+Data Date: Q1 2026

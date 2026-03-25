@@ -1,0 +1,40 @@
+SpaceX Starlink — Q4 2025 Business Update (First-Hand Investor Letter)
+
+HAWTHORNE, CA — SpaceX provided the following business update to investors for Q4 2025.
+
+1. STARLINK CONSTELLATION STATUS
+- Active satellites: 7,450 (vs 6,200 at Q4 2024)
+- V2 Mini satellites launched in Q4: 480 (22 Falcon 9 missions)
+- Total launches in 2025: 98 Falcon 9 + 6 Starship launches
+- Orbital shell coverage: 99.8% of populated landmass
+- Direct-to-Cell: 2,200 cell towers equivalent, active in 12 countries
+
+2. SUBSCRIBER METRICS
+- Total active subscribers: 5.8 million (vs 3.2M at Q4 2024, +81%)
+- Enterprise/Government: 420K subscribers (+120%)
+- Aviation: 1,200 aircraft equipped (Delta, United, JSX, Qatar)
+- Maritime: 32,000 vessels
+- Residential ARPU: $85/month (stable)
+- Enterprise ARPU: $420/month (+15%)
+- Churn rate: 2.1% monthly (improved from 2.8%)
+
+3. FINANCIAL HIGHLIGHTS
+- Annualized Revenue: $13.2B (Q4 run rate)
+  - Starlink: $8.4B (64%)
+  - Launch services: $4.8B (36%)
+- Starlink gross margin: 42% (vs 28% at Q4 2024)
+- Free Cash Flow positive since Q2 2025
+- EBITDA margin: 35%
+
+4. STARSHIP PROGRAM
+- Starship launches in 2025: 6 (4 successful orbital, 2 test failures)
+- Booster catch: 3 successful catches at Boca Chica
+- Starlink V3 deployment: First batch via Starship Q2 2026
+- V3 capacity: 10x bandwidth per satellite vs V2 Mini
+
+5. CHINA / COMPETITION
+- 中国星网: 第一批 LEO 卫星 (500颗) 计划 2026H2 发射
+- OneWeb (Eutelsat): 648 satellites, 200K subscribers
+- Amazon Kuiper: 90 prototype satellites, commercial service delayed to Q3 2026
+
+Data Date: 2026-01-31 (Q4 2025 Investor Letter)

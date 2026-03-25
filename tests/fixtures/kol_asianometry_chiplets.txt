@@ -1,0 +1,21 @@
+Asianometry — Chiplets: The Future of Semiconductor Scaling
+
+The economics of monolithic die scaling have broken down. At 3nm, a single large die (600mm²) yields below 30%, making advanced node chips prohibitively expensive for all but the highest-margin products. Chiplets offer a path forward.
+
+Key Developments in 2026:
+1. AMD continues to lead chiplet adoption with its 5th-gen EPYC (Turin) using TSMC 3nm compute dies connected to 6nm I/O dies via AMD's proprietary interconnect.
+
+2. Intel's upcoming Panther Lake uses a mix of TSMC N3 and Intel 18A tiles in a single package. If Intel 18A delivers on power efficiency promises, this hybrid approach could be transformative.
+
+3. UCIe (Universal Chiplet Interconnect Express) 2.0 specification finalized in late 2025. The standard now supports 2 TB/s bandwidth density and enables true multi-vendor die interoperability. Early adopters include AMD, Intel, Arm, Qualcomm, and Samsung.
+
+4. TSMC's InFO-L (Integrated Fan-Out with Local Silicon Interconnect) packaging is becoming the go-to for chiplet integration below the CoWoS cost tier. InFO-L costs 40-60% less than CoWoS while supporting up to 4 chiplets.
+
+5. Chinese companies are turning to chiplets as an EDA and process node workaround. Using mature 14nm/28nm chiplets connected via advanced packaging allows functional parity with more advanced monolithic designs at lower cost.
+
+Investment Implications:
+- Packaging becomes the new process node — companies with advanced packaging IP (TSMC, ASE, Amkor) benefit disproportionately
+- EDA vendors (Synopsys, Cadence) have developed chiplet-native design tools, expanding TAM
+- UCIe standardization creates a new ecosystem opportunity similar to PCIe's impact on the server market
+
+Data Date: March 2026

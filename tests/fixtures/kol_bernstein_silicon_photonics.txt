@@ -1,0 +1,27 @@
+Bernstein Research — Silicon Photonics: From Niche to Necessity
+
+Thesis: Silicon photonics is transitioning from a niche interconnect technology to a critical enabler of AI infrastructure scaling. The TAM is poised to grow from $4B in 2025 to $18B by 2028.
+
+Key Arguments:
+
+1. Bandwidth Wall: Electrical interconnects hit physical limits at 112 Gbps PAM4. AI training clusters now require 800G-1.6T optical links between GPU nodes. Silicon photonic transceivers offer 2-3x better power efficiency per bit vs traditional III-V photonics.
+
+2. Co-Packaged Optics (CPO): Broadcom's Bailly CPO switch integrates optical engines directly into the switch ASIC package, eliminating pluggable transceiver bottlenecks. TSMC is ramping CPO packaging capacity with dedicated CoWoS lines. First commercial CPO deployments expected in hyperscaler datacenters by H2 2026.
+
+3. Competitive Landscape:
+   - Coherent Corp (formerly II-VI + Finisar): Leading in 800G silicon photonic transceivers, 15% market share
+   - Innolight (中际旭创): Dominant in Chinese hyperscaler 800G modules, 30%+ revenue growth QoQ
+   - Marvell: CPO silicon photonic engines for custom switch ASICs
+   - Broadcom: Vertically integrated CPO solution (Tomahawk 5 + Bailly)
+   - Intel: Silicon photonic ASIC in data center interconnects (though divesting Altera may impact focus)
+
+4. Chinese Supply Chain: Innolight and Eoptolink (易飞扬) together supply >50% of China's 800G optical transceiver demand. Export controls on advanced photonic components are less restrictive than compute chips, giving Chinese vendors a window of opportunity.
+
+5. LPO (Linear Pluggable Optics): A disruptive approach eliminating DSP chips from transceivers. Reduces power by 40% and cost by 30%. Innolight and Coherent are leading LPO development, threatening traditional DSP vendors (Marvell, Broadcom).
+
+Price Targets:
+- Innolight (300308.SZ): Buy, PT ¥280 (30x 2027E P/E)
+- Coherent (COHR): Outperform, PT $120
+- Marvell (MRVL): Outperform, PT $125
+
+Data Date: 2026-03-08

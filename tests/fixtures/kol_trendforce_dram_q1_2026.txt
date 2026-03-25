@@ -1,0 +1,17 @@
+TrendForce DRAM Price Tracker — March 2026
+
+1. DDR5 Server DRAM contract price increased 8-10% QoQ in Q1 2026, driven by AI server demand. Samsung and SK Hynix are prioritizing HBM production, tightening mainstream DDR5 supply.
+
+2. DDR4 commodity DRAM continues its decline, with Q1 2026 contract prices falling 5-7% QoQ. CXMT (ChangXin Memory Technologies) has ramped DDR4 production to approximately 100K wafers/month, adding significant supply pressure.
+
+3. HBM3E pricing remains firm at $25-30 per GB, representing a 5-6x premium over standard DDR5. SK Hynix commands 55% market share, followed by Samsung at 35% and Micron at 10%.
+
+4. LPDDR5X mobile DRAM pricing stabilized as Apple iPhone 17 demand begins to ramp. MediaTek Dimensity 9400 adoption is driving LPDDR5X demand in Android flagships.
+
+5. NAND flash prices rebounded 3-5% QoQ after 6 consecutive quarters of decline. 232-layer and 300+ layer QLC adoption in enterprise SSDs is gaining traction.
+
+6. TrendForce forecasts total DRAM industry revenue to reach $115B in 2026, up 28% YoY, with HBM accounting for $32B (28% of total DRAM revenue).
+
+7. Chinese DRAM capacity is projected to reach 15% of global supply by end of 2026, up from 8% in 2025, primarily driven by CXMT and JHICC expansion.
+
+Data Date: 2026 Q1
