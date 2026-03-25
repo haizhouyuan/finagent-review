@@ -3,8 +3,8 @@
 ## Source
 
 - source repo: `https://github.com/haizhouyuan/finagent`
-- source commit: `37d869cd352cc2a21e6a948e8071f91067096c50`
-- review branch: `review-20260325-091531`
+- source commit: `e03d3acf6dc2c12f4adc491110fabb6d6119b5d4`
+- review branch: `review-20260325-091551`
 
 ## Review Goal
 
